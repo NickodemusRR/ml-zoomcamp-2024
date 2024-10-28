@@ -1,0 +1,16 @@
+{
+    "job": "blue-collar",
+    "marital": "married",
+    "education": "secondary",
+    "housing": "yes",
+    "contact": "unknown",
+    "month": "may",
+    "poutcome": "unknown",
+    "age": 40,
+    "balance": 580,
+    "day": 16,
+    "duration": 365,
+    "campaign": 1,
+    "pdays": -1,
+    "previous": 0
+}
